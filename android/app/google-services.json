@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436846246949",
+    "project_id": "messagingnotification-47dd9",
+    "storage_bucket": "messagingnotification-47dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436846246949:android:e54c073a3ee8fd026f53cc",
+        "android_client_info": {
+          "package_name": "com.messagingnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaBnW5uO0Yg-No8DFT85ikevXyISXRWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
